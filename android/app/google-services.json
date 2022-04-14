@@ -1,0 +1,116 @@
+{
+  "project_info": {
+    "project_number": "1053827432476",
+    "project_id": "localportcloud",
+    "storage_bucket": "localportcloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053827432476:android:5e3b944d9809542d891fd9",
+        "android_client_info": {
+          "package_name": "com.createwealth.localport_alter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053827432476-4vccs3ud64hii5midt1q5q5sl9n17n5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.createwealth.localport_alter",
+            "certificate_hash": "957aeeb2d82b1e04208a25caf06b660c913c94d7"
+          }
+        },
+        {
+          "client_id": "1053827432476-ifomtqml1lg0g36otg75d4f3qk4trh54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.createwealth.localport_alter",
+            "certificate_hash": "5f3d1d54cbe7daf86a715b0292069e6cc987240d"
+          }
+        },
+        {
+          "client_id": "1053827432476-othelati8ku9ndhp0jc36npc67al8lau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.createwealth.localport_alter",
+            "certificate_hash": "1ad85b5d9c7315b99cd14c9d10b2e4b76ec505d5"
+          }
+        },
+        {
+          "client_id": "1053827432476-nsg3ppiouinaokgn5vujnq8od30kmo1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoyymSF1gs4aELUes2iSI64mPVtOVU1-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053827432476-nsg3ppiouinaokgn5vujnq8od30kmo1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053827432476:android:dcbd21c359c85485891fd9",
+        "android_client_info": {
+          "package_name": "com.quickrades.localport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053827432476-433lslhgapmi47mldum42rkj1j2gk401.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickrades.localport",
+            "certificate_hash": "b5df1f816f56c135586d71e7002982c427cddfa3"
+          }
+        },
+        {
+          "client_id": "1053827432476-dges76h0ktj9lq056ghqkl59arevnk0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickrades.localport",
+            "certificate_hash": "5f3d1d54cbe7daf86a715b0292069e6cc987240d"
+          }
+        },
+        {
+          "client_id": "1053827432476-j50uj7inmgbseamd31plvekrj13hh2jf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickrades.localport",
+            "certificate_hash": "f892386dbf13fea81e9a1e4c7c1f3022f5efe64a"
+          }
+        },
+        {
+          "client_id": "1053827432476-nsg3ppiouinaokgn5vujnq8od30kmo1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoyymSF1gs4aELUes2iSI64mPVtOVU1-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053827432476-nsg3ppiouinaokgn5vujnq8od30kmo1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
